@@ -1,6 +1,6 @@
 {
-  "name": "smartphone",
-  "version": "1.0.0",
+  "name": "a-j-smartphone",
+  "version": "1.0.1",
   "description": "100 days coding challenge questions",
   "main": "smartPhone.js",
   "type": "module",
